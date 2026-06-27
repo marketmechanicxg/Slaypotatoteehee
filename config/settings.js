@@ -1,6 +1,6 @@
 /**
  * ╔══════════════════════════════════════════════════════════════╗
- * ║           OCEAN BIRTHDAY — SEMUA PENGATURAN DI SINI         ║
+ * ║           OCEAN GRADUATION — SEMUA PENGATURAN DI SINI         ║
  * ║  Kamu HANYA perlu edit file ini. Tidak perlu buka file lain. ║
  * ╚══════════════════════════════════════════════════════════════╝
  *
@@ -114,7 +114,7 @@ const WISHES = [
   { icon: "star",    text: "may every lil wish kamu pelan-pelan come true, exactly when you need it the most, no cap." },
   { icon: "compass", text: "wherever this year takes you, i hope kamu selalu find your way back to the people who genuinely care and adore you." },
   { icon: "anchor",  text: "stay grounded, stay grateful, and tbh tetap jadi kamu yang sekarang — beautiful in your own way, always." },
-  { icon: "heart",   text: "happy birthday istg — cheers buat another year penuh memories yang bakal selalu worth keeping." },
+  { icon: "heart",   text: "happy graduation istg — cheers buat another year penuh memories yang bakal selalu worth keeping." },
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
